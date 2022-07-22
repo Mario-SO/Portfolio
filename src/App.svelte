@@ -21,6 +21,7 @@
 				emoji="👨‍💻"
 			/>
 			<Link link="" name="Projects" emoji="🔥" />
+			<a href="./assets/cv.pdf" download>📝 CV</a>
 			<br />
 		</code>
 	</div>
