@@ -48,4 +48,8 @@
 		color: #40ff00;
 		margin: auto;
 	}
+
+	a {
+        color: #ffffff;
+    }
 </style>
