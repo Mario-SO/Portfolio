@@ -5,30 +5,21 @@
 
 <Head />
 <main>
-	<div>
-		<code>
-			mariodev@m5o.slmail.me
-			<br />
-			<br />
-			<Link
-				link="https://twitter.com/Mario_5O"
-				name="Twitter"
-				emoji="🐦"
-			/>
-			<Link
-				link="https://github.com/Mario-SO/"
-				name="Github"
-				emoji="👨‍💻"
-			/>
-			<Link link="" name="Projects" emoji="🔥" />
-			📝 <a href="./assets/cv.pdf" download>CV</a>
-			<br />
-		</code>
-	</div>
+	<code>
+		mariodev@m5o.slmail.me
+		<br />
+		<br />
+		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
+		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
+		<Link link="" name="Projects" emoji="🔥" />
+		📝 <a href="./assets/cv.pdf" download>CV</a>
+		<br />
+	</code>
 </main>
 
 <style>
 	:global(body) {
+		margin:0;
 		font-size: 16px;
 		line-height: 26px;
 		letter-spacing: 0.7px;
@@ -37,6 +28,7 @@
 
 	main {
 		/* center content */
+		color: #40ff00;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -44,12 +36,7 @@
 		width: 100vw;
 	}
 
-	div {
-		color: #40ff00;
-		margin: auto;
-	}
-
 	a {
-        color: #ffffff;
-    }
+		color: #ffffff;
+	}
 </style>
