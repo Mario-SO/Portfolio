@@ -12,7 +12,7 @@
 		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
 		<Link link="" name="Projects" emoji="🔥" />
-		📝 <a href="./assets/cv.pdf" download>CV</a>
+		📝 <a href="./cv.pdf" download>CV</a>
 		<br />
 	</code>
 </main>
