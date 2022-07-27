@@ -1,6 +1,7 @@
 <script>
 	import Head from "./components/Head.svelte";
 	import Link from "./components/Link.svelte";
+	import AnimatedLink from "./components/AnimatedLink.svelte";
 </script>
 
 <Head />
@@ -11,15 +12,19 @@
 		<br />
 		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
-		<Link link="" name="Projects" emoji="🔥" />
-		<Link link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf" name="CV" emoji="📝" />
+		<AnimatedLink link="" name="Projects" emoji="👉" />
+		<Link
+			link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
+			name="CV"
+			emoji="📝"
+		/>
 		<br />
 	</code>
 </main>
 
 <style>
 	:global(body) {
-		margin:0;
+		margin: 0;
 		font-size: 16px;
 		line-height: 26px;
 		letter-spacing: 0.7px;
@@ -35,8 +40,4 @@
 		height: 100vh;
 		width: 100vw;
 	}
-/* 
-	a {
-		color: #ffffff;
-	} */
 </style>
