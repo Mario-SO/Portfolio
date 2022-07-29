@@ -13,9 +13,11 @@
     a {
         color: #ffffff;
     }
+
     div {
         display: inline-flex;
     }
+    
     .emoji {
         margin-right: 10px;
         animation-name: bounce;
