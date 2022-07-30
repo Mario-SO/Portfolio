@@ -10,14 +10,19 @@
 </div>
 
 <style>
+    @import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
     a {
+        font-family: "Press Start 2P", cursive;
+        font-size: 0.64em;
         color: #ffffff;
+        text-decoration: wavy underline;
     }
 
     div {
         display: inline-flex;
     }
-    
+
     .emoji {
         margin-right: 10px;
         animation-name: bounce;

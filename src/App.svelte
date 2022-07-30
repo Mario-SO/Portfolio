@@ -14,9 +14,9 @@
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
 		<AnimatedLink link="" name="Projects" emoji="👉" />
 		<Link
-			link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
-			name="CV"
-			emoji="📝"
+		link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
+		name="CV"
+		emoji="📝"
 		/>
 		<br />
 	</code>
@@ -38,7 +38,6 @@
 	}
 
 	main {
-		/* center content */
 		color: #40ff00;
 		display: flex;
 		justify-content: center;
