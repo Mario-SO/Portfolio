@@ -23,6 +23,12 @@
 </main>
 
 <style>
+	:global(html) {
+		overflow-y: hidden;
+	}
+	:global(html::-webkit-scrollbar) {
+		display: none;
+	}
 	:global(body) {
 		margin: 0;
 		font-size: 16px;
