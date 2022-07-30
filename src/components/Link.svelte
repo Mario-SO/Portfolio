@@ -10,6 +10,6 @@
 
 <style>
     a {
-        color: #ffffff;
+        color: #22b2da;
     }
 </style>

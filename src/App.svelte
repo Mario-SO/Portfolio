@@ -12,35 +12,46 @@
 		<br />
 		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
-		<AnimatedLink link="https://projects.mariodev.xyz" name="Projects" emoji="👉" />
+		<AnimatedLink
+			link="https://projects.mariodev.xyz"
+			name="Projects"
+			emoji="👉"
+		/>
 		<Link
-		link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
-		name="CV"
-		emoji="📝"
+			link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
+			name="CV"
+			emoji="📝"
 		/>
 		<br />
 	</code>
 </main>
 
 <style>
+	/* Color Pallete
+	first color: #f23557
+	second color: #f0d43a
+	third color: #22b2da
+	fourth color: #3b4a6b
+	*/
+	
 	:global(html) {
 		overflow-y: hidden;
 	}
-	
+
 	:global(html::-webkit-scrollbar) {
 		display: none;
 	}
-	
+
 	:global(body) {
 		margin: 0;
 		font-size: 16px;
 		line-height: 26px;
 		letter-spacing: 0.7px;
-		background-color: black;
+		background-color: #283041;
 	}
 
 	main {
-		color: #40ff00;
+		color: #f23557;
 		display: flex;
 		justify-content: center;
 		align-items: center;
