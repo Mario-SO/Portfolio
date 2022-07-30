@@ -12,7 +12,7 @@
 		<br />
 		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
-		<AnimatedLink link="" name="Projects" emoji="👉" />
+		<AnimatedLink link="https://projects.mariodev.xyz" name="Projects" emoji="👉" />
 		<Link
 		link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
 		name="CV"
@@ -26,9 +26,11 @@
 	:global(html) {
 		overflow-y: hidden;
 	}
+	
 	:global(html::-webkit-scrollbar) {
 		display: none;
 	}
+	
 	:global(body) {
 		margin: 0;
 		font-size: 16px;
