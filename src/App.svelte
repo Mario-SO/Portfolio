@@ -33,9 +33,14 @@
 	third color: #22b2da
 	fourth color: #3b4a6b
 	*/
-	
+
 	:global(html) {
 		overflow-y: hidden;
+	}
+	@media (max-width: 600px) {
+		:global(html) {
+			overflow-y: hidden;
+		}
 	}
 
 	:global(html::-webkit-scrollbar) {
