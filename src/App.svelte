@@ -52,11 +52,11 @@
 		font-size: 16px;
 		line-height: 26px;
 		letter-spacing: 0.7px;
-		background-color: #283041;
+		background-color: beige;
 	}
 
 	main {
-		color: #f23557;
+		color: #00a9ff;
 		display: flex;
 		justify-content: center;
 		align-items: center;
