@@ -17,7 +17,7 @@
 			name="Projects"
 			emoji="👉"
 		/>
-		<AnimatedLink link="https:/blog.mariodev.xyz" name="Blog" emoji="👉" />
+		<AnimatedLink link="https://blog.mariodev.xyz" name="Blog" emoji="👉" />
 		<Link
 			link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
 			name="CV"
