@@ -14,7 +14,7 @@
 
     a {
         font-family: "Press Start 2P", cursive;
-        font-size: 0.64em;
+        font-size: 0.65em;
         color: #f23557;
         text-decoration: wavy underline;
     }

@@ -14,7 +14,7 @@
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
 		<AnimatedLink
 			link="https://projects.mariodev.xyz"
-			name="Projects"
+			name="Projects 🚨🚧🚨"
 			emoji="👉"
 		/>
 		<AnimatedLink link="https://blog.mariodev.xyz" name="Blog" emoji="👉" />
