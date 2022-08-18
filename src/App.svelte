@@ -23,6 +23,11 @@
 			name="CV"
 			emoji="📝"
 		/>
+		<Link
+			link="https://fantastical.app/xtx27db23x-hW6k/meeting"
+			name="Book a call"
+			emoji="📱"
+		/>
 		<br />
 	</code>
 </main>
