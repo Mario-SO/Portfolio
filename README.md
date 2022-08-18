@@ -1,7 +1,8 @@
 # Portfolio Website
 
-It includes a couple of links to my most used social media and a projects
-section where I include my best works.
+It includes a couple of links to my most used social media, blog, projects
+section where I include my best works, CV for recruiters 😉, and a link to book a
+call in case what you saw was so cool that you want to have a chat with me.
 
 <!-- Add image from folder -->
 
