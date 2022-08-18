@@ -13,8 +13,8 @@ This was my first iteration on the design for my main page.
 
 ## Vx
 
-This is the current version of the main page, I did iterate a couple time before
-getting to this version but don't have any screenshots, anyway, they were mostly
-color pallete changes.
+This is the current version of the main page, I did iterate a couple times
+before getting to this version but don't have any screenshots, anyway, they were
+mostly color pallete changes.
 
 ![Main Page V2](/resources/main_page_v2.png)
