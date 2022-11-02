@@ -7,7 +7,7 @@
 <Head />
 <main>
 	<code>
-		mariodev@m5o.slmail.me
+		me@mariodev.xyz
 		<br />
 		<br />
 		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
