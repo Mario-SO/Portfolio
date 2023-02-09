@@ -24,7 +24,7 @@
 			emoji="📝"
 		/>
 		<Link
-			link="https://fantastical.app/xtx27db23x-hW6k/meeting"
+			link="https://cal.com/mariodev/30min"
 			name="Book a call"
 			emoji="📱"
 		/>
