@@ -12,11 +12,11 @@
 		<br />
 		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
-		<AnimatedLink
+<!-- 		<AnimatedLink
 			link="https://projects.mariodev.xyz"
 			name="Projects 🚨🚧🚨"
 			emoji="👉"
-		/>
+		/> -->
 		<AnimatedLink link="https://blog.mariodev.xyz" name="Blog" emoji="👉" />
 		<Link
 			link="https://github.com/Mario-SO/Portfolio/blob/main/resources/cv.pdf"
