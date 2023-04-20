@@ -10,7 +10,7 @@
 		me@mariodev.xyz
 		<br />
 		<br />
-		<Link link="https://twitter.com/Mario_5O" name="Twitter" emoji="🐦" />
+		<Link link="https://twitter.com/mariodev__" name="Twitter" emoji="🐦" />
 		<Link link="https://github.com/Mario-SO/" name="Github" emoji="👨‍💻" />
 <!-- 		<AnimatedLink
 			link="https://projects.mariodev.xyz"
