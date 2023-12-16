@@ -2,7 +2,7 @@
 
 It includes a couple of links to my most used social media, blog, projects
 section where I include my best works, CV for recruiters 😉, and a link to book a
-call in case what you saw was so cool that you want to have a chat with me.
+call in case what you thought I was so cool that you want to have a chat with me.
 
 <!-- Add image from folder -->
 
